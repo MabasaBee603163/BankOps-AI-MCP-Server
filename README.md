@@ -735,6 +735,3 @@ Potential future improvements:
 - add role-switchable masked customer previews in a controlled test view
 - add a formal OpenAPI-style catalog for MCP tools
 
-## License
-
-This project is a portfolio/demo implementation. Add a license file before publishing or reusing it in another context.
